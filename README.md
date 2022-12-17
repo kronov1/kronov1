@@ -1,16 +1,14 @@
-### Hi there 👋
+## 🚀 Muito bom dia, boa tarde ou boa noite! Me chamo Bruno, nascido em 2004. Atualmente estudande e praticante de desenvolvimento web com tecnologias Front-end.
 
-<!--
-**kronov1/kronov1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Informações pessoais e afins:
 
-Here are some ideas to get you started:
+#### Cursando análise e desenvolvimento de sistemas na universidade Maurício de Nassau desde fevereiro de 2022, atualmente no segundo período do curso.
+#### Boa parte do tempo dedicado a estudos, mini projetos e desafios pessoais, estes que vão ser publicados aqui brevemente.
+#### Possuo bastante conhecimento em HTML5 e em CSS3. Nesse momento me dedicando aos estudos em JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Redes sociais:
+
+#### Link para meu instagram pessoal: https://instagram.com/poison.iivy._?igshid=YzdkMWQ2MWU=
+#### Link para meu LinkedIn: https://www.linkedin.com/in/bruno-gomes-30a572243
+
+### Me contate e bora pra cima!!! 🚀
