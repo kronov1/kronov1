@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kronov1&layout=compact&hide_border=true&title_color=6320EE&text_color=8075FF&bg_color=0d1117" />
 </div>
  
- <div align="center"> 
+ <div align="left"> 
 <a href="https://instagram.com/k_ronovy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F40?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:brunooliveira22br74@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/bruno-gomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B540?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
