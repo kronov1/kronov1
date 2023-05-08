@@ -7,7 +7,7 @@
 
  ### Tenho um breve conhecimento em:
  ![Dart](https://img.shields.io/badge/-dart-0D1117?style=for-the-badge&logo=dart&labelColor=0D1117)&nbsp;
- ![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
+ ![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117)&nbsp;
  ![Flutter](https://img.shields.io/badge/-flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117)&nbsp;
  
  ### Atualmente uso as tecnologias:
