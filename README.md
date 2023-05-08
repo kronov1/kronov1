@@ -19,6 +19,7 @@
 
  ### Ando estudando por agora:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-0D1117?style=for-the-badge&logo=SASS&labelColor=0D1117)&nbsp;
 
 <div align="center"> 
 <a href="https://instagram.com/k_ronovy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F40?style=for-the-badge&logo=instagram&logoColor=white"</a>
