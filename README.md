@@ -2,7 +2,7 @@
 
  <div align="right">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kronov1&show_icons=true&count_private=true&hide_border=true&title_color=6320EE&icon_color=BA55D3&text_color=8075FF&bg_color=0d1117" alt="Gabriela Gouveia github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kronov1&layout=compact&hide_border=true&title_color=6320EE&text_color=8075FF&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielagouveia&layout=compact&hide_border=true&title_color=6320EE&text_color=8075FF&bg_color=0d1117" />
 </div>
 
  ### Tenho um breve conhecimento em:
