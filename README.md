@@ -11,7 +11,7 @@
  ![Flutter](https://img.shields.io/badge/-flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117)&nbsp;
  
  ### Atualmente uso as tecnologias:
-![HTML]()&nbsp;
+![Excel](https://i.pinimg.com/originals/19/92/91/1992917f382f70752f1327c6f10e0a7a.png)&nbsp;
 ![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
